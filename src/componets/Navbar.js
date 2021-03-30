@@ -1,4 +1,5 @@
 import SearchName from "./SearchName"
+import SearchDate from "./SearchDate"
 
 function Navbar() {
     return (
@@ -15,9 +16,9 @@ function Navbar() {
           <span className="navbar-toggler-icon" />
         </button>
         <div className="collapse navbar-collapse row" id="navbarNav">
-          {/* <div className="input-group col-8">
-            <SearchDOB />
-          </div> */}
+          <div className="input-group col-8">
+            <SearchDate />
+          </div>
           <div className="search-area col-4">
             <SearchName />
           </div>
