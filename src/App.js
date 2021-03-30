@@ -1,12 +1,18 @@
 import './App.css';
-import NavBar from "./componets/Navbar"
+import Main from "./componets/Main";
+import Wrapper from "./componets/Wrapper";
+import Header from "./componets/Header";
+
 function App() {
   return (
-    <div>
-      <NavBar />
+    <div className="App">
+      <Wrapper>
+        <Header />
+        <Main />
+      </Wrapper>
     </div>
-
-  )
+  );
 }
+
 
 export default App;
