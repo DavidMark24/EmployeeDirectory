@@ -4,14 +4,10 @@
 A application that allows you search for your employees.
 
 ## Table of Contents
-* [Screenshot](#screenshot)
 * [Demostartion](#demostration)
 * [Questions](#questions)
 * [Heroku](#Heroku)
 * [License](#license)
-
-# Screenshot
-![Screenshot (3)](https://user-images.githubusercontent.com/72535444/113072333-ab8bc180-917b-11eb-9160-0e862d5b0fd2.png)
 
 
 ## Demostration
