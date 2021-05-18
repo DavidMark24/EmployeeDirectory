@@ -1,8 +1,8 @@
 # Employee Directory
 
 ## Description
-A application that allows you search for your employees. Sorting through employees is a hassel. Now you can make it easy with this app.
-This app will aloow you to sort through name and birth year.
+A application that allows you search for your employees. Sorting through employees is a hassel. Now you can make it easy with this app!
+This app will allow you to sort through name and birth year!
 
 ## Table of Contents
 * [Demostartion](#demostration)
